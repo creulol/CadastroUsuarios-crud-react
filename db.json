@@ -1,0 +1,11 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Luiz Henrique Frederico Santos",
+        "email": "luiz@teste.com.br"
+    },{
+        "id": 2,
+        "name": "Julia Feitosa Ferreira",
+        "email": "julia@react.com.br"
+    }]
+}
